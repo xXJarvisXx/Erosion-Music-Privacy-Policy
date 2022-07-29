@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://discord.gg/Q75jZjk9X2"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
 ## Usage of Data
 
 **The bot may use stored data, as defined below, for different features including but not limited to: save songs played, members joined same voice channel
