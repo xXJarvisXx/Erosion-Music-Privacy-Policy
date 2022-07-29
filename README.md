@@ -7,7 +7,7 @@
 
 **The bot may use stored data, as defined below, for different features including but not limited to: save songs played, members joined same voice channel
 No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.**
-OTc3OTI1MTExNTA2MTczOTgy.GfWBQX.KWJVcfAf8PcYWArQEc7uKUw7TkJmDavvFVvWNE
+
 ## Stored Information
 
 - `Song Requester User Id`
