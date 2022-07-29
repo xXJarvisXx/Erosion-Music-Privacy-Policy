@@ -4,7 +4,7 @@
 </p>
 
 ## Usage of Data
-MTAwMjE5OTg2OTMyMDA4NTY1NA.GdSbdO.mIF6idutAF8oe8HYjjEe4biVwmM9SsXM1IMoYg
+
 **The bot may use stored data, as defined below, for different features including but not limited to: save songs played, members joined same voice channel
 No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.**
 
