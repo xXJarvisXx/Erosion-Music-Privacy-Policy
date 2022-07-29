@@ -27,9 +27,9 @@ Updating data will require the input of an end user, and data that can be seen a
 ## Temporarely stored Information
 
 **The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time.
-After this time period, the cached information will be dropped and only be re-added when required.
+After this time period, the cached information will be dropped and only be re-added when required.**
 
-Data may be dropped from cache pre-maturely through actions such as removing the bot from the Server.**
+**Data may be dropped from cache pre-maturely through actions such as removing the bot from the Server.**
 
 
 
