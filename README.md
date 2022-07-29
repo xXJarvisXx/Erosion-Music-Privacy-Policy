@@ -1,13 +1,12 @@
 # Privacy Policy
-
+<h1 align="center"> REAPER-2.0  </h1>
 
 ## Usage of Data
 
 **The bot may use stored data, as defined below, for different features including but not limited to: save songs played, members joined same voice channel
 No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.**
 
-
-Stored Information
+## Stored Information
 
 Song Requester User Id
 Playlist songs
